@@ -1,4 +1,4 @@
-# Multiple Disease Prediction System
+# Diabetes Prediction System
 
 This project is a Streamlit-based web application for predicting the likelihood of three medical conditions: Diabetes, Heart Disease, and Parkinson's Disease, using machine learning models. The application provides an interactive interface for users to input relevant medical data and receive predictions based on pre-trained models.
 
